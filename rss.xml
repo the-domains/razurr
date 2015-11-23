@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Razurr]]></title>
         <description><![CDATA[Razurr]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/razurr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 Nov 2015 16:42:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 23 Nov 2015 16:42:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/razurr/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/razurr/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">cac924f6-e982-47a4-a6e1-7c82ebba9895</guid>
+            <pubDate>Mon, 23 Nov 2015 16:41:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hello I'm Diana Razurr</p>]]></description>
-            <link>undefinedbf98603c-d6d8-4a42-a3d0-0edf9961474f/index.html</link>
+            <link>https://thegrid.ai/razurr/bf98603c-d6d8-4a42-a3d0-0edf9961474f/index.html</link>
             <guid isPermaLink="false">bf98603c-d6d8-4a42-a3d0-0edf9961474f</guid>
             <pubDate>Mon, 23 Nov 2015 16:41:54 GMT</pubDate>
         </item>
